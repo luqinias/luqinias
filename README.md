@@ -1,16 +1,16 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luqinias&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Lucas Lira!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=LucasLira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Atualmente estudante da Universidade Federal de Uberlândia<br/> tenho foco como desenvolvedor backend</p>
+<p>Atualmente estudante da Universidade Federal de Uberlândia no curso de Engenharia da Computação,<br/> tenho foco como desenvolvedor backend</p>
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre o Lucas
 - 🤔 Curiosamente apaixonado por tecnologias.
-- 🎓 Estudando {Engenharia da Computação} na {Universidade Federal de Uberlândia}.
+- 🎓 Estudando Engenharia da Computação na Universidade Federal de Uberlândia.
+- 🎓 Formado como Técnico em TI.
 - 🌱 Aprendendo e desenvolvendo com Python, JavaScript, Java.
 
 ## Minhas Skills
@@ -18,6 +18,7 @@
 - Flexível
 - Bom trabalho em equipe
 - Entusiasta
+  
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -44,10 +45,10 @@
 <br/>
 
 <a href="https://github.com/luqinias" title="Perfil do Lucas Lira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luqinias&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luc-aslira/)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/luqinias)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luc-aslira/)](https://www.linkedin.com/in/luc-aslira/)
+[![GitHub](https://img.shields.io/github/followers/luqinias?label=follow&style=social)](https://github.com/luqinias)
