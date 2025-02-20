@@ -11,7 +11,7 @@
 - 🤔 Curiosamente apaixonado por tecnologias.
 - 🎓 Estudando Engenharia da Computação na Universidade Federal de Uberlândia.
 - 🎓 Formado como Técnico em TI.
-- 🌱 Aprendendo e desenvolvendo com Python, JavaScript, Java.
+- 🌱 Aprendendo e desenvolvendo com Python, Java, SQL, RPA, C.
 
 ## Minhas Skills
 - Personalidade comunicativa
