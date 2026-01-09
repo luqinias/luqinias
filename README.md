@@ -49,5 +49,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-lucaslira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luc-aslira/)](https://www.linkedin.com/in/luc-aslira/)
+[![Linkedin](https://img.shields.io/badge/-lucaslira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasliraoff/)](https://www.linkedin.com/in/lucasliraoff/)
 [![GitHub](https://img.shields.io/github/followers/luqinias?label=follow&style=social)](https://github.com/luqinias)
