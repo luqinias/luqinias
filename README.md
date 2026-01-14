@@ -10,7 +10,7 @@
 - 🤔 Curiosamente apaixonado por tecnologias.
 - 🎓 Graduando em Engenharia de Computação na Universidade Federal de Uberlândia.
 - 🎓 Formado como Técnico em TI.
-- 🌱 Aprendendo e desenvolvendo com Python, Java, SQL, RPA, C.
+- 🌱 Aprendendo e desenvolvendo com Python, Java, SQL, JavaScript, C.
 
 ## Minhas Skills
 - Personalidade comunicativa
