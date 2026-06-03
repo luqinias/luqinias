@@ -3,14 +3,14 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasLira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Atualmente, estou graduando na Universidade Federal de Uberlândia no curso de Engenharia de Computação,<br/> tenho foco como desenvolvedor backend</p>
+<p>Atualmente, estou graduando na Universidade Federal de Uberlândia no curso de Engenharia de Computação, e <br/> atuando como desenvolvedor</p>
 
 
 ## Sobre o Lucas
 - 🤔 Curiosamente apaixonado por tecnologias.
 - 🎓 Graduando em Engenharia de Computação na Universidade Federal de Uberlândia.
 - 🎓 Formado como Técnico em TI.
-- 🌱 Aprendendo e desenvolvendo com Python, Java, SQL, JavaScript, C.
+- 🌱 Aprendendo e desenvolvendo com Python e TypeScript.
 
 ## Minhas Skills
 - Personalidade comunicativa
